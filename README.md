@@ -1,30 +1,31 @@
-# CONECTA TV BR (P2P + VOD) 🚀
+# 🚀 CONECTA TV BR (P2P + Live TV + VOD)
 
-Aplicativo oficial CONECTA TV BR (P2P + Filmes e Séries VOD) com motor TVBus de baixa latência e remoção de rastreadores Bugly.
+<div align="center">
+  <img src="https://raw.githubusercontent.com/JuniorFray/CONECTA_TV_BR/main/conecta_tv_logo.png" width="180" alt="CONECTA TV BR Logo"/>
+  <h3>Aplicativo Oficial CONECTA TV BR — Alta Performance & P2P Engine</h3>
+</div>
+
+---
+
+## 📱 Sobre o Aplicativo
+O **CONECTA TV BR** é um aplicativo premium de streaming com motor **P2P nativo de alta velocidade**, suporte a canais ao vivo (FHD/HD/SD), filmes, séries e guia de programação (EPG).
+
+### ✨ Principais Recursos e Customizações:
+- **⚡ Motor P2P Nativo Otimizado:** Carregamento ultra rápido de canais com bypass dinâmico de assinatura.
+- **🎨 Design Moderno & Fundo Dark:** Interface escura e elegante com degradê oficial **Laranja CONECTA TV** (`#ffff7a00`).
+- **🚫 Sem Popups de Atualizações Forçadas:** Sistema de checagem remota invasiva desativado para garantir estabilidade contínua.
+- **💬 Suporte Integrado Oficial:** Card de suporte dedicado na aba de Perfil com **WhatsApp (19) 99612-9882** e QR Code para atendimento rápido.
+- **📺 Compatibilidade Total:** Funciona perfeitamente em Smartphones, Tablets, TV Box e Smart TVs Android.
 
 ---
 
 ## 📥 Download Direto do APK
 
-Clique no link abaixo ou insira o endereço direto no aplicativo **Downloader** da sua TV Box / Fire TV:
-
-* 🔗 **[Baixar CONECTA_TV_BR.apk](https://github.com/JuniorFray/CONECTA_TV_BR/raw/main/CONECTA_TV_BR.apk)**
-* 🌐 **Link Direto (URL para Downloader):**  
-  `https://github.com/JuniorFray/CONECTA_TV_BR/raw/main/CONECTA_TV_BR.apk`
+| Arquivo | Versão | Arquitetura | Download |
+| :--- | :---: | :---: | :--- |
+| **CONECTA TV BR** | `v1.0 (Otimizado)` | ARM64 / Multi | [⬇️ Baixar APK](https://raw.githubusercontent.com/JuniorFray/CONECTA_TV_BR/main/CONECTA_TV_BR.apk) |
 
 ---
 
-## ✨ Recursos e Melhorias
-
-* ✅ Transmissão P2P com suporte a servidor principal e backup
-* ✅ Catálogo completo de TV Ao Vivo, Filmes e Séries (VOD)
-* ✅ Baixa Latência P2P: Buffer calibrado para início rápido em 2s e atraso reduzido
-* ✅ Telemetria Bugly (Tencent) e serviços desnecessários desativados para maior fluidez
-* ✅ Identidade visual oficial CONECTA TV com logos 3D
-* ✅ Cabeçalho de suporte WhatsApp oficial (19) 99612-9882 com QR Code
-
----
-
-## 📱 Suporte Oficial
-* 💬 **WhatsApp:** (19) 99612-9882
-* 🕒 **Atendimento:** Suporte e Ativação CONECTA TV
+## 🛠️ Suporte Oficial CONECTA TV
+- **WhatsApp:** [(19) 99612-9882](https://wa.me/5519996129882)
